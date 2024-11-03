@@ -1,4 +1,4 @@
-LNormativeReferences
+# Normative References
 
 The UFID standard draws on several established ISO standards to ensure compatibility with existing financial and identification protocols. These standards provide the foundation for UFID's global applicability and alignment with recognized financial practices.
 
